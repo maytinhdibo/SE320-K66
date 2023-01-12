@@ -8,6 +8,7 @@
 
 **Bài tập tự thực hành:**
 - Tạo một image docker bằng `docker-composer`, cài đặt `vnc-server` và một DE - desktop environment (Xfce/GNOME/LXDE/LXQt/KDE/...) cho image đó. Thử remote thông qua trình `vnc-viewer` trên máy.
+- Lưu ý không dùng các image có sẵn các gói nêu trên.
 
 **Yêu cầu đặc biệt:**
 - Các bạn Trung/Duy, Hiếu/Dũng, Sáng/Nguyên, Khôi/Thuỷ, Hoạt/Khanh không được sử dụng chung DE trong bài tập của mình.
